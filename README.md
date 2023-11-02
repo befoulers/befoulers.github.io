@@ -1,2 +1,2 @@
 # simple website
-``https://dgs1337.github.io``
+``dougkalash.github.io``
